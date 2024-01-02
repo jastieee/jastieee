@@ -10,11 +10,11 @@
 # About Me
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <p>
-    👀 I’m interested in becoming a Data Engineer, I am also interested in learning new things in different industries of technology.
+    👀 I'm into becoming a Data Engineer and love picking up new tech stuff from different industries.
     <br>
-    🌱 I’m currently learning how to become a Data Engineer.
+    🌱 Currently learning the ropes of Data Engineering.
     <br>
-    💞️ I’m looking forward to collaborating on any exciting projects, also for new opportunities and learnings that I might get.
+    💞️ Excited to join cool projects and always open to new opportunities for learning and growth.
   </p>
 </div>
 
