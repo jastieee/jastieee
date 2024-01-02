@@ -28,9 +28,9 @@
   <p>
     📫 You can reach me via:
     <br>
-    - <a href="mailto:jhustiecruz27@gmail.com">📧 Email</a>
+    - <a href="mailto:jhustiecruz27@gmail.com">📧 jhustiecruz27@gmail.com</a>
     <br>
-    - <a href="https://www.linkedin.com/in/jhustie-mae-cruz-b081b629a/">🔗 LinkedIn: Connect with me on LinkedIn</a>
+    - <a href="https://www.linkedin.com/in/jhustie-mae-cruz-b081b629a/">🔗 LinkedIn:  Connect with me on LinkedIn</a>
   </p>
 </div>
 
