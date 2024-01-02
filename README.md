@@ -20,17 +20,7 @@
 
 ## Programming Languages I'm Familiar With
 
-<img src="images/cpp-logo.png" alt="C++ Logo" width="50"/> **C++**
-
-<img src="images/java-logo.png" alt="Java Logo" width="50"/> **Java**
-
-<img src="images/html-logo.png" alt="HTML Logo" width="50"/> **HTML**
-
-<img src="images/css-logo.png" alt="CSS Logo" width="50"/> **CSS**
-
-<img src="images/js-logo.png" alt="JavaScript Logo" width="50"/> **JavaScript**
-
-<img src="images/python-logo.png" alt="Python Logo" width="50"/> **Python**
+<img src="cpp.png" alt="C++ Logo" width="50"/> <img src="java.png" alt="Java Logo" width="50"/> <img src="html.png" alt="HTML Logo" width="50"/>  <img src="css.png" alt="CSS Logo" width="50"/> <img src="js.png" alt="JavaScript Logo" width="50"/> <img src="python.png" alt="Python Logo" width="50"/> <img src="mysql.png" alt="MySQL Logo" width="50"/> <img src="postgre.png" alt="PostgreSQL Logo" width="50"/> <img src="spark.png" alt="Apache Spark Logo" width="50"/>
 
 
 ## How to Reach Me
