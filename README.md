@@ -22,14 +22,15 @@
 
 <img src="cpp.png" alt="C++ Logo" width="50"/> <img src="java.png" alt="Java Logo" width="50"/> <img src="html.png" alt="HTML Logo" width="50"/>  <img src="css.png" alt="CSS Logo" width="50"/> <img src="js.png" alt="JavaScript Logo" width="50"/> <img src="python.png" alt="Python Logo" width="50"/> <img src="mysql.png" alt="MySQL Logo" width="50"/> <img src="postgre.png" alt="PostgreSQL Logo" width="50"/> <img src="spark.png" alt="Apache Spark Logo" width="50"/>
 
-
 ## How to Reach Me
+
 <div style="background-color: #ffd9e6; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <p>
     📫 You can reach me via:
     <br>
-    - [📧 Email](mailto:jhustiecruz27@gmail.com)
+    - <a href="mailto:jhustiecruz27@gmail.com">📧 Email</a>
     <br>
-    - 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jhustie-mae-cruz-b081b629a/)
+    - <a href="https://www.linkedin.com/in/jhustie-mae-cruz-b081b629a/">🔗 LinkedIn: Connect with me on LinkedIn</a>
   </p>
 </div>
+
