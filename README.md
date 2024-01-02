@@ -3,7 +3,7 @@
   <h1 style="color: white;">👋 Hi, I'm Jhustie Mae</h1>
 
   <p style="color: white;">
-    I'm currently a 3rd year Computer Engineering student at Pamantasan ng Lungsod ng Maynila.
+    I'm currently a 3rd year Computer Engineering student at Pamantasan ng Lungsod ng Maynila. I'm really excited about learning data engineering to boost both my academic and professional journey.
   </p>
 </div>
 
