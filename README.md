@@ -10,9 +10,9 @@
 # About Me
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <p>
-    👀 I'm into becoming a Data Engineer and love picking up new tech stuff from different industries.
+    👀 I'm into becoming a Full Stack Engineer and love picking up new tech stuff from different industries.
     <br>
-    🌱 Currently learning the ropes of Data Engineering.
+    🌱 Currently learning the ropes of Data Engineering, Cybersecurity and more Programming Language.
     <br>
     💞️ Excited to join cool projects and always open to new opportunities for learning and growth.
   </p>
@@ -28,9 +28,7 @@
   <p>
     📫 You can reach me via:
     <br>
-    - <a href="mailto:jhustiecruz27@gmail.com">📧 jhustiecruz27@gmail.com</a>
-    <br>
-    - <a href="https://www.linkedin.com/in/jhustie-mae-cruz-b081b629a/">🔗 LinkedIn:  Connect with me on LinkedIn</a>
+    - <a href="mailto:cruzjastie@gmail.com">📧 jhustiecruz27@gmail.com</a>
   </p>
 </div>
 
