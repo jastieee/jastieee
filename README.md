@@ -20,15 +20,17 @@
 
 ## Programming Languages & Technologies
 
-<img src="cpp.png" alt="C++ Logo" width="50"/> 
-<img src="java.png" alt="Java Logo" width="50"/> 
-<img src="html.png" alt="HTML Logo" width="50"/>  
-<img src="css.png" alt="CSS Logo" width="50"/> 
-<img src="js.png" alt="JavaScript Logo" width="50"/> 
-<img src="python.png" alt="Python Logo" width="50"/> 
-<img src="mysql.png" alt="MySQL Logo" width="50"/> 
-<img src="postgre.png" alt="PostgreSQL Logo" width="50"/> 
-<img src="spark.png" alt="Apache Spark Logo" width="50"/>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <img src="cpp.png" alt="C++ Logo" width="50"/> 
+  <img src="java.png" alt="Java Logo" width="50"/> 
+  <img src="html.png" alt="HTML Logo" width="50"/>  
+  <img src="css.png" alt="CSS Logo" width="50"/> 
+  <img src="js.png" alt="JavaScript Logo" width="50"/> 
+  <img src="python.png" alt="Python Logo" width="50"/> 
+  <img src="mysql.png" alt="MySQL Logo" width="50"/> 
+  <img src="postgre.png" alt="PostgreSQL Logo" width="50"/> 
+  <img src="spark.png" alt="Apache Spark Logo" width="50"/>
+</div>
 
 ## Development Focus 🚀
 - Web Applications  
