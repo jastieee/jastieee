@@ -14,7 +14,7 @@
   Name    : Jhustie Mae
   Degree  : Computer Engineering — Cum Laude
   School  : Pamantasan ng Lungsod ng Maynila
-  Role    : Junior Programmer
+  Role    : Program Developer
   Focus   : Full Stack | Mobile | Barcode & RFID Solutions
 ```
 
